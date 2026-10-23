@@ -4,6 +4,34 @@ An intelligent, multi-user personal knowledge vault, study companion, and multim
 
 ---
 
+
+## 👩‍💻 My Contribution
+
+**Role: Ingestion Pipeline & Document Processing Specialist**
+
+As a member of a four-person team, I focused on the ingestion pipeline and document processing components of Smart Memory Vault.
+
+### Responsibilities
+
+- **File Upload Handling:** Worked on handling uploaded documents such as PDF, DOCX, and TXT files.
+- **Text Extraction:** Contributed to extracting text and metadata from uploaded documents for further processing.
+- **Document Processing Pipeline:** Worked on connecting file uploads, text extraction, and content cleaning into the application's ingestion workflow.
+- **Content Cleaning & Entity Extraction:** Worked with regular expressions to identify and process relevant information from extracted text.
+- **Pipeline Integration:** Contributed to integrating document processing components with the application's memory storage and retrieval workflow.
+
+### Relevant Modules
+
+- `pipeline/uploader.py` — File upload handling.
+- `pipeline/extractor.py` — Document text and metadata extraction.
+- `pipeline/regex_cleaner.py` — Text cleaning and regex-based entity extraction.
+
+### Technologies
+
+Python, Streamlit, document-processing libraries, regular expressions (Regex), Git, and GitHub.
+
+*This project was developed collaboratively by a team of four members. The responsibilities listed above represent my primary area of contribution.*
+
+
 ## 🚀 Teammate Quickstart Guide (Run Locally)
 
 Follow these steps to clone, set up, and run the project on your machine:
